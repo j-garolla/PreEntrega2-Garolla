@@ -171,7 +171,8 @@ h3 {
     border-radius: 50px;
 }
 
-#video-load {width: 600px;
+#video-load {
+    width: 500px;
     border-radius: 50px;
     margin: 50px;
     height: 300px;
@@ -259,10 +260,6 @@ h2 {
     width: 300px;
     margin: 30px;
     height: 100px;}
- }
- #video-load {
-
-     display:none;
  }
 
 }
